@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         LocalDate now = LocalDate.now();
         String argsStr = Arrays.toString(args);
-        System.out.println("Args: " + argsStr);
-        System.out.println("Hello world Changed! " + now);
+        System.out.println("Аргументы: " + argsStr);
+        System.out.println("Хеллоу Ворлд Изменён! " + now);
     }
 }
