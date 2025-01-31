@@ -7,5 +7,6 @@ public class Main {
         String argsStr = Arrays.toString(args);
         System.out.println("Аргументы: " + argsStr);
         System.out.println("Хеллоу Ворлд Изменён! " + now);
+        System.out.println("Класс: " + Main.class);
     }
 }
