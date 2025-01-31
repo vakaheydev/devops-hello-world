@@ -1,7 +1,7 @@
 # Changelog
 
 ## [1.0.4] - 2025-01-31 18:42
-- Added class info
+- Added class info to output
 
 ## [1.0.3] - 2025-01-31 18:32
 - Hotfix: chaned language to russian
