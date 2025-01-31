@@ -17,3 +17,6 @@
 ## Изменения
 
 Все изменения и обновления проекта можно найти в файле [changelog.md](changelog.md).
+
+![image](https://github.com/user-attachments/assets/21be26e3-b106-428f-aaf3-c8a60fc86951)
+
