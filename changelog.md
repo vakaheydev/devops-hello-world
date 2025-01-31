@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.1] - 2025-01-31 18:58
+- Changed output method
+
+## [1.1.0] - 2025-01-31 18:53
+- Changed output style
+
 ## [1.0.4] - 2025-01-31 18:42
 - Added class info to output
 
