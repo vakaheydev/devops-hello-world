@@ -10,11 +10,11 @@ public class Main {
 
 
         System.out.println("<------------------->");
-        System.out.println("Аргументы: " + argsStr);
-        System.out.println("Хеллоу Ворлд Изменён! " + dateNow);
-        System.out.println("Время: " + timeNow);
-        System.out.println("Класс: " + Main.class);
-        System.out.println("Поток: " + Thread.currentThread());
+        System.out.printf("Аргументы: %s%n", argsStr);
+        System.out.printf("Хеллоу Ворлд Изменён! %s%n", dateNow);
+        System.out.printf("Время: %s%n", timeNow);
+        System.out.printf("Класс: %s%n", Main.class);
+        System.out.printf("Поток: %s%n", Thread.currentThread());
         System.out.println("<------------------->");
     }
 }
