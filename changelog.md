@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.3] - 2025-01-31 18:06
+- Hotfix: chaned language to russian
+
 ## [1.0.2] - 2025-01-31 18:06
 - Added main() arguments to output
 
